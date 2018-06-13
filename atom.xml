@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yinchangqing&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-13T11:58:15.303Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Yinchangqing</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://yoursite.com/2018/06/13/Test/"/>
+    <id>http://yoursite.com/2018/06/13/Test/</id>
+    <published>2018-06-13T11:57:35.000Z</published>
+    <updated>2018-06-13T11:58:15.303Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://yoursite.com/2018/06/13/My-New-Post/"/>
+    <id>http://yoursite.com/2018/06/13/My-New-Post/</id>
+    <published>2018-06-13T11:57:22.000Z</published>
+    <updated>2018-06-13T11:57:22.450Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
